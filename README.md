@@ -5,8 +5,8 @@ Projetos de data science
   <img src = "banner.png">
 </p>
 
-#  Carlos Melo
-<sub> * Cientista de dados líder * no Centro de Operações Espaciais </sub>
+#  Tiago Rose
+<sub> * Cientista de dados * </sub>
 
 Como um cientista de dados experiente e piloto da Força Aérea, eu combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Tendo passado os últimos anos aplicando o Aprendizado de Máquina aos problemas reais da Força Aérea Brasileira, desenvolvi um pensamento crítico e habilidade para resolver problemas.
 
