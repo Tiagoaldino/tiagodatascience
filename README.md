@@ -26,7 +26,6 @@ Veja os tutoriais publicados do Sigmoidal:
 *  ** Como usar o Histograma para Data Science: ** https://bit.ly/2L2cMwy
 *  ** Como Implementar Regressão Linear com Python: ** https://bit.ly/2Li5pzY
 *  ** Ciência de dados: Investigando o naufrágio do Titanic: ** https://bit.ly/2Ubr5SH
-
 *  ** XGBoost: aprenda este algoritmo de Machine Learning em Python: ** https://bit.ly/2UbRhws
 *  ** Como criar um Wordcloud em Python: ** https://bit.ly/2OxsphM
 *  ** Como lidar com dados desbalanceados: ** https://bit.ly/2ZlaNsV
